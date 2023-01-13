@@ -1,5 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Awesome.com'
-developer = "Kamal"
+title = 'Examination Results Portal'
 theme = "govbase"
+
+[params]
+    department = 'Examination Department of Sri Lanka'
