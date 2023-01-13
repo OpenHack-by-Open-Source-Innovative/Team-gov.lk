@@ -1,0 +1,3 @@
+[submodule "src/example-site/themes/govbase"]
+	path = src/example-site/themes/govbase
+	url = https://github.com/govLK-revamp/gov.lk-base-template.git
